@@ -8,6 +8,9 @@ for (let i = 0; i < halo.length; i++) {
   console.log(abc);
   const abcd3 = "abcd3";
   console.log(abcd3);
+  console.log(abc);
+  console.log(abc);
+
 }
 
 console.log(halo2);
