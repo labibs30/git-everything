@@ -13,6 +13,9 @@ for (let i = 0; i < halo.length; i++) {
 }
 
 console.log(halo2);
+console.log("====================================");
+console.log(testing);
+console.log("====================================");
 console.log(halo2);
 
 const obj = [
