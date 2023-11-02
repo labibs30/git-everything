@@ -10,7 +10,7 @@ for (let i = 0; i < halo.length; i++) {
   console.log(abcd3);
   console.log(abc);
   console.log(abc);
-
 }
 
+console.log(halo2);
 console.log(halo2);
