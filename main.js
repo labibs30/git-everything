@@ -14,3 +14,12 @@ for (let i = 0; i < halo.length; i++) {
 
 console.log(halo2);
 console.log(halo2);
+
+const obj = [
+  {
+    nama: "Labib",
+  },
+  {
+    nama: "Labib",
+  },
+];
